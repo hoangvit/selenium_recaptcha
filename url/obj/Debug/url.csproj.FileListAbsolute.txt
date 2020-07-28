@@ -1,0 +1,17 @@
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\WebDriver.dll
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\WebDriver.xml
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\url.csprojAssemblyReference.cache
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\url.Form1.resources
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\url.csproj.GenerateResource.cache
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\url.csproj.CopyComplete
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\GuerrillaSharp.dll
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\Newtonsoft.Json.dll
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\Newtonsoft.Json.xml
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\KAutoHelper.dll
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\url.csproj.CoreCompileInputs.cache
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\tool_Clam_bithind.exe.config
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\tool_Clam_bithind.exe
+E:\1.HOC_TAP\selenium\baiTap\url\url\bin\Debug\tool_Clam_bithind.pdb
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\tool_Clam_bithind.Properties.Resources.resources
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\tool_Clam_bithind.exe
+E:\1.HOC_TAP\selenium\baiTap\url\url\obj\Debug\tool_Clam_bithind.pdb
